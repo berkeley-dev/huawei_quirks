@@ -4,9 +4,9 @@ Huawei does weird things.
 
 # boot
 kernel, ramdisk and recovery are split and stored as Android bootimg ( ANDROID! magic )
-kernel = kernel and cmdline
-ramdisk = android ramdisk ( cpio archive )
-ramdisk_recovery = recovery ramdisk ( cpio archive )
+* kernel = kernel and cmdline
+* ramdisk = android ramdisk ( cpio archive )
+* ramdisk_recovery = recovery ramdisk ( cpio archive )
 
 # vbmeta
 Yep, also that, huawei is using a custom implementation not supported by AOSP
