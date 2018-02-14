@@ -1,0 +1,2 @@
+https://github.com/96boards-hikey/aosp-device-linaro-hikey/blob/hikey970_v1.0/installer/hikey970/mkdtimg
+Tool to compile the DTB in a format supported by the bootloader ( Compressed as well )
