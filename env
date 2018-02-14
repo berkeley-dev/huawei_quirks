@@ -1,0 +1,24 @@
+HWBKL:/ $ env 
+_=/system/bin/env
+ANDROID_DATA=/data
+TMPDIR=/data/local/tmp
+DOWNLOAD_CACHE=/data/cache
+LOGNAME=shell
+HOME=/
+CUST_POLICY_DIRS=/system/emui/base:/system/emui/oversea:/system/emui/oversea_honor:/vendor/etc:/odm/etc:/product/etc:/hw_odm:/hw_oem:/cust/hw/normal:/data/cust:/version/region_comm/oversea:/cust_spec
+ASEC_MOUNTPOINT=/mnt/asec
+TERM=xterm-256color
+SHELL=/system/bin/sh
+ANDROID_BOOTLOGO=1
+ODM_PRODUCT=/hw_odm
+ANDROID_ASSETS=/system/app
+BOOTCLASSPATH=/system/framework/core-oj.jar:/system/framework/core-libart.jar:/system/framework/conscrypt.jar:/system/framework/okhttp.jar:/system/framework/legacy-test.jar:/system/framework/bouncycastle.jar:/system/framework/ext.jar:/system/framework/framework.jar:/system/framework/telephony-common.jar:/system/framework/voip-common.jar:/system/framework/ims-common.jar:/system/framework/apache-xml.jar:/system/framework/org.apache.http.legacy.boot.jar:/system/framework/android.hidl.base-V1.0-java.jar:/system/framework/android.hidl.manager-V1.0-java.jar:/system/framework/hwEmui.jar:/system/framework/hwTelephony-common.jar:/system/framework/hwframework.jar:/system/framework/org.simalliance.openmobileapi.jar:/system/framework/org.ifaa.android.manager.jar:/system/framework/hwaps.jar:/system/framework/hwcustEmui.jar:/system/framework/hwcustframework.jar:/system/framework/hwcustTelephony-common.jar:/system/framework/servicehost.jar
+ANDROID_SOCKET_adbd=14
+HOSTNAME=HWBKL
+EXTERNAL_STORAGE=/sdcard
+ANDROID_STORAGE=
+USER=shell
+PATH=/sbin:/system/sbin:/system/bin:/system/xbin:/vendor/bin:/vendor/xbin:/system/vendor/bin:/system/vendor/xbin:/product/bin:/product/xbin:/odm/bin:/odm/xbin
+SYSTEMSERVERCLASSPATH=/system/framework/services.jar:/system/framework/ethernet-service.jar:/system/framework/wifi-service.jar:/system/framework/hwServices.jar:/system/framework/hwWifi-service.jar:/system/framework/hwcustServices.jar:/system/framework/hwcustwifi-service.jar
+OEM_ROOT=/hw_oem
+ANDROID_ROOT=/system
