@@ -1,0 +1,8 @@
+dts.img
+
+for dtb in arch/arm64/boot/dts/auto-generate/config/kirin970/kirin970*.dtb; do minigzip -c -9 $dtb > $(basename $dtb).gzip; done
+cat kirin970_* > dts.img
+
+dto.img
+
+?
