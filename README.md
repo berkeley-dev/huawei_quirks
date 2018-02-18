@@ -8,6 +8,9 @@ kernel, ramdisk and recovery are split and stored as Android bootimg ( ANDROID! 
 * ramdisk = android ramdisk ( cpio archive )
 * ramdisk_recovery = recovery ramdisk ( cpio archive )
 
+# fastboot
+Sometimes during your development journey you'll get stuck in reboot loop and holding volume down won't get you in fastboot. Don't panic, the easiest way to get back there is to boot to eRecovery (hold volume up for 3 seconds while 1,2,3 screen is visible) then power-off your phone and plug in the USB cable while holding volume up (* woop woop * anyone remembers MTK flash tool? )
+
 # vbmeta
 Yep, also that, huawei is using a custom implementation not supported by AOSP  
 They are using 2 different dts entries ( vbmeta_huawei and vbmeta_hisi ) while aosp expects only vbmeta ( HACK: Merge them together )  
