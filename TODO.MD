@@ -6,6 +6,6 @@
 | IMS                     | Y   | Y   |
 | Fingerprint sensor      | N   | Y   |
 | Invalid signal strength | Y   | Y   |
-| Wireless display        | Y   | N/? |
+| Wireless display        | Y   | N   |
 | Screen recording        | Y   | N   |
-| Sending videos via TG   | Y   | N/? |
+| Sending videos via TG   | Y   | N   |
