@@ -9,4 +9,5 @@
 | Wireless display              | Y   | N   |
 | Screen recording              | Y   | N   |
 | Video recording (non Camera2) | Y   | N   |
+| FFC (Camera2 at least)        | Y   | N/? |
 | Sending videos via TG         | Y   | N   |
