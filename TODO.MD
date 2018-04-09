@@ -5,6 +5,7 @@
 | AudioFX (headphones)          | Y   | Y/? |
 | IMS                           | Y   | Y   |
 | Fingerprint sensor            | N   | Y   |
+| Infrared                      | N   | Y   |
 | Invalid signal strength       | Y   | Y   |
 | Wireless display              | Y   | N   |
 | Screen recording              | Y   | N   |
