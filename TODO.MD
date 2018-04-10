@@ -12,3 +12,9 @@
 | Screen recording                 | Y   | N   |
 | Video recording (non Camera2)    | Y   | N   |
 | Sending videos via TG            | Y   | N   |
+
+## ~ legend ~
+* Y - confirmed issue
+* N - confirmed working
+* Y/? - unconfirmed but probably working
+* N/? - unconfirmed but probably broken
