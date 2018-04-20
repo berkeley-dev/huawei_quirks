@@ -6,6 +6,7 @@
 | IMS                              | Y   | Y   |
 | Fingerprint sensor               | N   | Y   |
 | Infrared                         | N   | Y   |
+| ZRAM                             | N   | Y   |
 | FFC reports invalid capabilities | Y   | Y   |
 | Invalid signal strength          | Y   | Y   |
 | Wireless display                 | Y   | N   |
