@@ -5,7 +5,6 @@
 | AudioFX (headphones)             | Y   | Y/? |
 | IMS                              | Y   | Y   |
 | Infrared                         | N   | Y   |
-| FCP and SCP                      | Y   | Y   |
 | FFC reports invalid capabilities | Y   | Y   |
 | Invalid signal strength          | Y   | Y   |
 | Wireless display                 | Y   | N   |
