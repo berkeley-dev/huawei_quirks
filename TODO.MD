@@ -13,7 +13,7 @@
 | Sending videos via TG                             | Y   | N   |
 
 ## ~ legend ~
-* Y - confirmed issue
+* Y - confirmed broken
 * N - confirmed working
 * Y/? - unconfirmed but probably broken
 * N/? - unconfirmed but probably working
