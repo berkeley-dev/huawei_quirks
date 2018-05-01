@@ -15,5 +15,5 @@
 ## ~ legend ~
 * Y - confirmed issue
 * N - confirmed working
-* Y/? - unconfirmed but probably working
-* N/? - unconfirmed but probably broken
+* Y/? - unconfirmed but probably broken
+* N/? - unconfirmed but probably working
