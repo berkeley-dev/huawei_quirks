@@ -6,7 +6,6 @@
 | Infrared                         | N   | Y   |
 | Type-C audio                     | Y   | Y   |
 | FFC reports invalid capabilities | Y   | Y   |
-| Invalid signal strength          | Y   | Y   |
 | Wireless display                 | Y   | N   |
 | Screen recording                 | Y   | N   |
 | Video recording (non Camera2)    | Y   | N   |
