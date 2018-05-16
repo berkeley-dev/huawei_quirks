@@ -4,7 +4,7 @@
 | AudioFX (headphones)             | Y   | Y/? |
 | IMS                              | Y   | Y   |
 | Infrared                         | N   | Y   |
-| Type-C audio                     | Y   | Y   |
+| Type-C audio                     | Y   | N   |
 | FFC reports invalid capabilities | Y   | Y   |
 | Wireless display                 | Y   | N   |
 | Screen recording                 | Y   | N   |
