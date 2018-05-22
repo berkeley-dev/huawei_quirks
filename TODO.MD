@@ -10,6 +10,7 @@
 | Screen recording                 | Y   | N   |
 | Video recording (non Camera2)    | Y   | N   |
 | Sending videos via TG            | Y   | N   |
+| Incall microphone mute           | Y   | N   |
 
 ## ~ legend ~
 * Y - confirmed broken
