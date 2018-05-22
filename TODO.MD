@@ -2,6 +2,7 @@
 | Issue                            | 8.0 | 8.1 |
 | -------------------------------- |:---:|:---:|
 | AudioFX (headphones)             | Y   | Y/? |
+| Incall microphone mute           | Y   | Y/? |
 | IMS                              | Y   | Y   |
 | Infrared                         | N   | Y   |
 | Type-C audio                     | Y   | Y   |
@@ -10,7 +11,6 @@
 | Screen recording                 | Y   | N   |
 | Video recording (non Camera2)    | Y   | N   |
 | Sending videos via TG            | Y   | N   |
-| Incall microphone mute           | Y   | N   |
 
 ## ~ legend ~
 * Y - confirmed broken
