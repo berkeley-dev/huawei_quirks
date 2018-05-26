@@ -3,10 +3,12 @@
 | -------------------------------- |:---:|:---:|
 | AudioFX (headphones)             | Y   | Y/? |
 | Incall microphone mute           | Y   | Y/? |
+| WPS                              | Y   | Y/? |
 | IMS                              | Y   | Y   |
 | Infrared                         | N   | Y   |
-| Type-C audio                     | Y   | Y   |
+| Type-C audio (partially)         | Y   | Y   |
 | FFC reports invalid capabilities | Y   | Y   |
+| Single dialog USSDs              | Y   | Y   |
 | Wireless display                 | Y   | N   |
 | Screen recording                 | Y   | N   |
 | Video recording (non Camera2)    | Y   | N   |
