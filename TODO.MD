@@ -2,8 +2,8 @@
 | Issue                            | 8.0 | 8.1 |
 | -------------------------------- |:---:|:---:|
 | AudioFX (headphones)             | Y   | Y/? |
-| Incall microphone mute           | Y   | Y/? |
-| WPS                              | Y   | Y/? |
+| Incall microphone mute           | Y   | Y   |
+| WPS                              | Y   | Y   |
 | IMS                              | Y   | Y   |
 | Infrared                         | N   | Y   |
 | Type-C audio (partially)         | Y   | Y   |
