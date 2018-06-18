@@ -9,7 +9,7 @@
 | Type-C audio (partially)         | Y   | Y   |
 | FFC reports invalid capabilities | Y   | Y   |
 | Single dialog USSDs              | Y   | Y   |
-| Wireless display                 | Y   | N   |
+| Wireless display (partially)     | Y   | N   |
 | Screen recording                 | Y   | N   |
 | Video recording (non Camera2)    | Y   | N   |
 | Sending videos via TG            | Y   | N   |
