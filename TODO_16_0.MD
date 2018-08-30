@@ -5,6 +5,7 @@
 | Incall microphone mute           | Y   | Y   |
 | IMS                              | Y   | Y   |
 | WiFi Hotspot                     | Y   | Y   |
+| Video recording                  | Y   | N   |
 | Infrared                         | N   | Y   |
 | Type-C audio (partially)         | Y   | Y   |
 | FFC reports invalid capabilities | Y   | Y   |
