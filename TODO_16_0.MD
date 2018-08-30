@@ -4,6 +4,7 @@
 | AudioFX (headphones)             | Y   | Y/? |
 | Incall microphone mute           | Y   | Y   |
 | IMS                              | Y   | Y   |
+| Wifi Hotspot                     | Y   | Y   |
 | Infrared                         | N   | Y   |
 | Type-C audio (partially)         | Y   | Y   |
 | FFC reports invalid capabilities | Y   | Y   |
