@@ -2,6 +2,7 @@
 | Issue                            | 9 |
 | -------------------------------- |:-:|
 | Slow boot time due to vdc        | Y |
+| OTA                              | Y |
 | IMS                              | Y |
 | Type-C audio (partially)         | Y |
 
