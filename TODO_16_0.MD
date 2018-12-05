@@ -1,19 +1,8 @@
 # Issues
-| Issue                            | 8.0 | 8.1 |
-| -------------------------------- |:---:|:---:|
-| AudioFX (headphones)             | Y   | Y/? |
-| Incall microphone mute           | Y   | Y   |
-| IMS                              | Y   | Y   |
-| WiFi Hotspot                     | Y   | Y   |
-| Video recording                  | Y   | N   |
-| Infrared                         | N   | Y   |
-| Type-C audio (partially)         | Y   | Y   |
-| FFC reports invalid capabilities | Y   | Y   |
-| Single dialog USSDs              | Y   | Y   |
-| Wireless display (partially)     | Y   | N   |
-| Screen recording                 | Y   | N   |
-| Video recording (non Camera2)    | Y   | N   |
-| Sending videos via TG            | Y   | N   |
+| Issue                            | 9 |
+| -------------------------------- |:-:|
+| IMS                              | Y |
+| Type-C audio (partially)         | Y |
 
 ## ~ legend ~
 * Y - confirmed broken
