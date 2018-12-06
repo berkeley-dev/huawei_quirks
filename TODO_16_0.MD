@@ -3,6 +3,7 @@
 | -------------------------------- |:-:|
 | Slow boot time due to vdc        | Y |
 | OTA                              | Y |
+| Offline charging                 | Y |
 | IMS                              | Y |
 | Type-C audio (partially)         | Y |
 
