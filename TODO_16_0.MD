@@ -6,6 +6,7 @@
 | Offline charging                 | Y |
 | IMS                              | Y |
 | Type-C audio (partially)         | Y |
+| NFC (charlotte specific)         | Y |
 
 ## ~ legend ~
 * Y - confirmed broken
