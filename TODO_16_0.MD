@@ -1,7 +1,6 @@
 # Issues
 | Issue                            | 9 |
 | -------------------------------- |:-:|
-| Slow boot time due to vdc        | Y |
 | OTA                              | Y |
 | Offline charging                 | Y |
 | IMS                              | Y |
