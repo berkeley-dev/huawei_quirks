@@ -2,7 +2,6 @@
 | Issue                            | 9 |
 | -------------------------------- |:-:|
 | OTA                              | Y |
-| Offline charging                 | Y |
 | IMS                              | Y |
 | Type-C audio (partially)         | Y |
 
