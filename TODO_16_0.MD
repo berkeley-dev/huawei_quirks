@@ -1,7 +1,6 @@
 # Issues
 | Issue                            | 9 |
 | -------------------------------- |:-:|
-| OTA                              | Y |
 | IMS                              | Y |
 | Type-C audio (partially)         | Y |
 
