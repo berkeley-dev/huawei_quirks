@@ -2,7 +2,6 @@
 | Issue                            | 9 |
 | -------------------------------- |:-:|
 | IMS                              | Y |
-| Type-C audio (partially)         | Y |
 
 ## ~ legend ~
 * Y - confirmed broken
